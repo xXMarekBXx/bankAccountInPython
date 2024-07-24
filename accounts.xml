@@ -1,0 +1,8 @@
+<users>
+  <user id="0">
+    <login>marek</login>
+    <password>marek123</password>
+    <email>marek123@gmail.com</email>
+    <saldo>0</saldo>
+  </user>
+</users>
